@@ -1,0 +1,21 @@
+C:\Users\Bob\Documents\Confusion\mobile\gen\com\bigbawb\stroople\R.java \
+ : C:\Users\Bob\Documents\Confusion\mobile\res\drawable-hdpi\ic_launcher.png \
+C:\Users\Bob\Documents\Confusion\mobile\res\drawable-hdpi\stroopcon.png \
+C:\Users\Bob\Documents\Confusion\mobile\res\drawable-ldpi\ic_launcher.png \
+C:\Users\Bob\Documents\Confusion\mobile\res\drawable-ldpi\stroopcon.png \
+C:\Users\Bob\Documents\Confusion\mobile\res\drawable-mdpi\ic_launcher.png \
+C:\Users\Bob\Documents\Confusion\mobile\res\drawable-mdpi\stroopcon.png \
+C:\Users\Bob\Documents\Confusion\mobile\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\Bob\Documents\Confusion\mobile\res\drawable-xhdpi\stroopcon.png \
+C:\Users\Bob\Documents\Confusion\mobile\res\layout\main.xml \
+C:\Users\Bob\Documents\Confusion\mobile\res\values\Integers.xml \
+C:\Users\Bob\Documents\Confusion\mobile\res\values\strings.xml \
+C:\Users\Bob\Documents\Confusion\mobile\bin\res\drawable-hdpi\ic_launcher.png \
+C:\Users\Bob\Documents\Confusion\mobile\bin\res\drawable-hdpi\stroopcon.png \
+C:\Users\Bob\Documents\Confusion\mobile\bin\res\drawable-ldpi\ic_launcher.png \
+C:\Users\Bob\Documents\Confusion\mobile\bin\res\drawable-ldpi\stroopcon.png \
+C:\Users\Bob\Documents\Confusion\mobile\bin\res\drawable-mdpi\ic_launcher.png \
+C:\Users\Bob\Documents\Confusion\mobile\bin\res\drawable-mdpi\stroopcon.png \
+C:\Users\Bob\Documents\Confusion\mobile\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\Bob\Documents\Confusion\mobile\bin\res\drawable-xhdpi\stroopcon.png \
+C:\Users\Bob\Documents\Confusion\mobile\bin\AndroidManifest.xml \
